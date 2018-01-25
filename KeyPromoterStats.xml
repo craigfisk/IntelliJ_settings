@@ -3,6 +3,7 @@
     <option name="stats">
       <map>
         <entry key="'Alt+Shift+F10'" value="1" />
+        <entry key="'Ctrl+Alt+S'" value="1" />
       </map>
     </option>
   </component>
