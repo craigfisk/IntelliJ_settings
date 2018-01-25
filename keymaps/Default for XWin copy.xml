@@ -15,4 +15,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="kp_up" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
 </keymap>
