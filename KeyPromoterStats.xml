@@ -13,7 +13,9 @@
         <entry key="'Ctrl+Back Slash'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="11" />
         <entry key="'Ctrl+F2'" value="55" />
+        <entry key="'Ctrl+Q' or 'Alt+Button2 Click'" value="1" />
         <entry key="'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'" value="1" />
+        <entry key="'Ctrl+Shift+I'" value="1" />
         <entry key="'Ctrl+V' or 'Shift+Insert'" value="5" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="1" />
         <entry key="'Delete'" value="1" />
