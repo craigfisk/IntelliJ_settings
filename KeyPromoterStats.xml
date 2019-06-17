@@ -9,7 +9,7 @@
         <entry key="'Alt+I'" value="1" />
         <entry key="'Alt+Shift+F10'" value="2" />
         <entry key="'Ctrl+Alt+L'" value="2" />
-        <entry key="'Ctrl+Alt+Left' or 'Button4 Click'" value="4" />
+        <entry key="'Ctrl+Alt+Left' or 'Button4 Click'" value="5" />
         <entry key="'Ctrl+Alt+S'" value="20" />
         <entry key="'Ctrl+Alt+Shift+J' or 'Alt+Enter'" value="2" />
         <entry key="'Ctrl+Alt+Shift+S'" value="6" />
@@ -22,6 +22,7 @@
         <entry key="'Ctrl+S'" value="1" />
         <entry key="'Ctrl+Shift+A'" value="1" />
         <entry key="'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'" value="1" />
+        <entry key="'Ctrl+Shift+Backspace'" value="1" />
         <entry key="'Ctrl+Shift+F8'" value="1" />
         <entry key="'Ctrl+V' or 'Shift+Insert'" value="7" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="1" />
