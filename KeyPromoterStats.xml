@@ -21,7 +21,7 @@
         <entry key="'Ctrl+Alt+Y'" value="1" />
         <entry key="'Ctrl+Back Slash'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="24" />
-        <entry key="'Ctrl+F2'" value="91" />
+        <entry key="'Ctrl+F2'" value="92" />
         <entry key="'Ctrl+F9'" value="3" />
         <entry key="'Ctrl+S'" value="1" />
         <entry key="'Ctrl+Shift+A'" value="2" />
@@ -34,7 +34,8 @@
         <entry key="'Ctrl+\'" value="1" />
         <entry key="'Delete'" value="1" />
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="5" />
-        <entry key="'Shift+F10'" value="58" />
+        <entry key="'Shift+Escape'" value="1" />
+        <entry key="'Shift+F10'" value="59" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Up' or 'Shift+Enter'" value="1" />
         <entry key="'Shift+F9'" value="7" />
       </map>
