@@ -5,5 +5,30 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.7 (developer_quest) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.7" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/-1871736866" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.7" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/-1871736866" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
